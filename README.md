@@ -1,5 +1,5 @@
 # sportmonks-api-calls
-Various call of the sportmonks API for private bundesliga manager game.
+Various calls to the sportmonks API for private bundesliga manager game.
 
 # sm_player_stats.py
 Updates player stats (e.g. scored goals or completed passes) live or for a given fixture or range of fixtures
